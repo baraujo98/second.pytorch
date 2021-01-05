@@ -333,7 +333,5 @@ dependencies:
   - pip:
     - fire==0.3.1
     - pip==20.3.3
-    - sparseconvnet==0.2
     - tensorboardx==2.1
     - termcolor==1.1.0
-prefix: /home/bernardo/miniconda3/envs/pillars
